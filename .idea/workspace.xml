@@ -43,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="counter_controller.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="counter_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="6" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
+            <state line="7" column="42" selection-start="212" selection-end="212" vertical-scroll-proportion="0.14383562">
               <folding />
             </state>
           </provider>
@@ -91,16 +91,16 @@
       <file leaf-file-name="deploy_hooks.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="81" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
+            <state line="3" column="88" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cpu.sh" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="cpu.sh" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/tasks/cpu.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="79" selection-start="644" selection-end="644" vertical-scroll-proportion="0.41095892">
+            <state line="20" column="79" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -139,8 +139,8 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/home.js.coffee" />
         <option value="$PROJECT_DIR$/.cloud66/deploy_hooks.yml" />
         <option value="$PROJECT_DIR$/app/views/counter/counter.html" />
-        <option value="$PROJECT_DIR$/app/controllers/counter_controller.rb" />
         <option value="$PROJECT_DIR$/lib/tasks/cpu.sh" />
+        <option value="$PROJECT_DIR$/app/controllers/counter_controller.rb" />
       </list>
     </option>
   </component>
@@ -788,6 +788,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/counter/counter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="51" selection-start="1076" selection-end="1325" vertical-scroll-proportion="8.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/cpu.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="79" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="88" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cloud66/chmod.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="81" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/load_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="12" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
@@ -804,35 +832,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="6" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/counter/counter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="51" selection-start="1076" selection-end="1325" vertical-scroll-proportion="8.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.cloud66/chmod.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="81" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="81" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/cpu.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="79" selection-start="644" selection-end="644" vertical-scroll-proportion="0.41095892">
+        <state line="7" column="42" selection-start="212" selection-end="212" vertical-scroll-proportion="0.14383562">
           <folding />
         </state>
       </provider>
