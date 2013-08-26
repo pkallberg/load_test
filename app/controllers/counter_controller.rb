@@ -9,7 +9,7 @@ class CounterController < ApplicationController
 				@cpu = line
 			end
 			i+=1
-			sleep 1
+			sleep 5
 		end
 		#gon.watch.cpu = @cpu
 end

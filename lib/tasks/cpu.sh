@@ -25,5 +25,5 @@ while true; do
   PREV_IDLE="$IDLE"
 
   # Wait before checking again.
-  sleep 1
+  sleep 5
 done
