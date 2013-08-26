@@ -54,13 +54,11 @@
 		<h3>CPU load</h3>
 	</div><br>
 
-	<pre id='cpu' style='font-family:monospace;'></pre>
-
 	<div class="graph">
 		<canvas id="mycanvas" width="400" height="200"></canvas><br><br>
 	</div>
 
-	<script type="text/javascript" src="../smoothie.js"></script>
+	<script type="text/javascript" src="assets/smoothie.js"></script>
 
 	<script type="text/javascript">
 		var smoothie = new SmoothieChart();
@@ -73,8 +71,9 @@
 
 		// Add a random value to each line every second
 		setInterval(function() {
-			line1.append(new Date().getTime(), <%=@cpu%>);
-		}, 5000);
+			var now = new Date().getTime();
+			line1.append(now, <%=@cpu%>);
+		}, 1000);
 
 		// Add to SmoothieChart
 		smoothie.addTimeSeries(line1);
