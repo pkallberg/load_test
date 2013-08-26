@@ -7,7 +7,6 @@ class CounterController < ApplicationController
 		 	@cpu = line
 		end
 
-		data2 = {'message' => @cpu}
-		Pusher['load_test'].trigger('cpu', data2)
+		#gon.watch.cpu = @cpu
 end
 end

@@ -5,8 +5,8 @@
     <ignored path="load_test.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/routes.rb" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377517886041" ignored="false" />
-    <file path="/counter_controller.rb" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377523334040" ignored="false" />
-    <file path="/counter.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377522644755" ignored="false" />
+    <file path="/counter_controller.rb" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377526878522" ignored="false" />
+    <file path="/counter.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377527002966" ignored="false" />
     <file path="/application.css" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377507499632" ignored="false" />
     <file path="/Procfile" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377509998142" ignored="false" />
     <file path="/index.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377470830083" ignored="false" />
@@ -37,7 +37,29 @@
       <file leaf-file-name="counter.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/counter/counter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="51" selection-start="1076" selection-end="1325" vertical-scroll-proportion="8.625">
+            <state line="63" column="71" selection-start="2000" selection-end="2000" vertical-scroll-proportion="-8.875">
+              <folding>
+                <element signature="n#style#0;n#pre#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="counter.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/counter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="48" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -46,16 +68,25 @@
       <file leaf-file-name="counter_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="42" selection-start="212" selection-end="212" vertical-scroll-proportion="0.14383562">
+            <state line="7" column="54" selection-start="212" selection-end="212" vertical-scroll-proportion="0.14383562">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <file leaf-file-name="deploy_hooks.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="2" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+            <state line="3" column="72" selection-start="84" selection-end="135" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flipcounter.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/flipcounter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,16 +113,7 @@
       <file leaf-file-name="process_job.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/process_job.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="54" selection-start="472" selection-end="546" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="deploy_hooks.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="88" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
+            <state line="22" column="47" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -101,15 +123,6 @@
         <entry file="file://$PROJECT_DIR$/lib/tasks/cpu.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state line="20" column="79" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chmod.sh" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.cloud66/chmod.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="81" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -125,21 +138,21 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Procfile" />
-        <option value="$PROJECT_DIR$/.cloud66/chmod.sh" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/counter.js" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/counter.js.coffee" />
         <option value="$PROJECT_DIR$/app/controllers/top_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/top/top.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/home/top.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/home.js.coffee" />
         <option value="$PROJECT_DIR$/.cloud66/deploy_hooks.yml" />
-        <option value="$PROJECT_DIR$/app/views/counter/counter.html" />
         <option value="$PROJECT_DIR$/lib/tasks/cpu.sh" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/lib/tasks/cpu.txt" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/counter.js" />
+        <option value="$PROJECT_DIR$/app/views/counter/counter.html" />
+        <option value="$PROJECT_DIR$/cpu.txt" />
         <option value="$PROJECT_DIR$/app/controllers/counter_controller.rb" />
       </list>
     </option>
@@ -255,6 +268,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -394,6 +429,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Rails.Development: load_test">
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
@@ -732,41 +772,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/load/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="243" selection-end="243" vertical-scroll-proportion="-4.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="5" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p448@rails-3.2.13/gems/gon-4.1.1/lib/gon/helpers.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="10" selection-start="872" selection-end="872" vertical-scroll-proportion="0.3319239">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="2" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
@@ -781,37 +786,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="2" selection-start="32" selection-end="32" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/counter/counter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="51" selection-start="1076" selection-end="1325" vertical-scroll-proportion="8.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/cpu.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="79" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="88" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.cloud66/chmod.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="81" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -823,16 +814,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="2" selection-start="32" selection-end="32" vertical-scroll-proportion="-1.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/flipcounter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/counter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="48" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/process_job.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="54" selection-start="472" selection-end="546" vertical-scroll-proportion="0.0">
+        <state line="22" column="47" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/cpu.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="79" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/counter/counter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="71" selection-start="2000" selection-end="2000" vertical-scroll-proportion="-8.875">
+          <folding>
+            <element signature="n#style#0;n#pre#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="72" selection-start="84" selection-end="135" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="42" selection-start="212" selection-end="212" vertical-scroll-proportion="0.14383562">
+        <state line="7" column="54" selection-start="212" selection-end="212" vertical-scroll-proportion="0.14383562">
           <folding />
         </state>
       </provider>

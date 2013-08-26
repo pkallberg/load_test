@@ -124,7 +124,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
   delayed_job_active_record
-  gon (~> 4.1.1)
+  gon
   jbuilder (~> 1.2)
   jquery-rails
   mysql2
