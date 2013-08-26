@@ -74,7 +74,7 @@
 		// Add a random value to each line every second
 		setInterval(function() {
 			line1.append(new Date().getTime(), <%=@cpu%>);
-		}, 1000);
+		}, 5000);
 
 		// Add to SmoothieChart
 		smoothie.addTimeSeries(line1);
