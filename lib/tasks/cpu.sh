@@ -18,7 +18,7 @@ while true; do
   let "DIFF_IDLE=$IDLE-$PREV_IDLE"
   let "DIFF_TOTAL=$TOTAL-$PREV_TOTAL"
   let "DIFF_USAGE=(1000*($DIFF_TOTAL-$DIFF_IDLE)/$DIFF_TOTAL+5)/10"
-  echo -en "$DIFF_USAGE" > cpu.txt
+  echo -en "$DIFF_USAGE" > /var/deploy/pk_load-demo/web_head/current/lib/tasks/cpu.txt
 
   # Remember the total and idle CPU times for the next check.
   PREV_TOTAL="$TOTAL"
