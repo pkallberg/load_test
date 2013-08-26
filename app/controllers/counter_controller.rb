@@ -4,10 +4,8 @@ class CounterController < ApplicationController
 		#data.each do |line|
 		# 	@cpu = line
 		#end
-	end
 
-	def top
-		@variable = rand(100)
-		gon.watch.top = `top -l1`
-	end
+
+			@my_vars = rand(100)
+end
 end
