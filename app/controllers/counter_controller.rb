@@ -7,7 +7,6 @@ class CounterController < ApplicationController
 				@cpu = line
 			end
 			i+=1
-		end
-		#gon.watch.cpu = @cpu
 	end
+		#gon.watch.cpu = @cpu
 end
