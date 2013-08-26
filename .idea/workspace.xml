@@ -5,7 +5,7 @@
     <ignored path="load_test.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/routes.rb" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377517886041" ignored="false" />
-    <file path="/counter_controller.rb" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377531889736" ignored="false" />
+    <file path="/counter_controller.rb" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377532354894" ignored="false" />
     <file path="/counter.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377531854578" ignored="false" />
     <file path="/application.css" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377507499632" ignored="false" />
     <file path="/Procfile" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377509998142" ignored="false" />
@@ -64,7 +64,7 @@
       <file leaf-file-name="counter_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="4" selection-start="214" selection-end="214" vertical-scroll-proportion="0.1849315">
+            <state line="4" column="34" selection-start="109" selection-end="109" vertical-scroll-proportion="0.08219178">
               <folding />
             </state>
           </provider>
@@ -857,7 +857,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="4" selection-start="214" selection-end="214" vertical-scroll-proportion="0.1849315">
+        <state line="4" column="34" selection-start="109" selection-end="109" vertical-scroll-proportion="0.08219178">
           <folding />
         </state>
       </provider>

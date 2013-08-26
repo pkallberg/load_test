@@ -2,7 +2,7 @@ class CounterController < ApplicationController
 	def counter
 		# CPU load variable
 
-			data = IO.readlines("<%= ENV['RAILS_STACK_PATH'] %>/lib/tasks/cpu.txt")
+			data = IO.readlines("./lib/tasks/cpu.txt")
 			data.each do |line|
 				@cpu = line
 			end
