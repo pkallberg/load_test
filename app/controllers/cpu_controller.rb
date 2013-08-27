@@ -1,6 +1,6 @@
 class CpuController < ApplicationController
 	def index
-		cpu = File.read("ENV['RAILS_STACK_PATH']/lib/tasks/cpu.txt")
+		cpu = File.read("/var/deploy/pk_deploy-hooks/web_head/current/lib/tasks/cpu.txt")
 		render :json => { :value => cpu }
 	end
 end
