@@ -1,1 +1,1 @@
-echo $RAILS_STACK_PATH >> /tmp/output.log
+chmod 777 $RAILS_STACK_PATH/lib/tasks/cpu.sh
