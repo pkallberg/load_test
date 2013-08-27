@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/routes.rb" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377616168157" ignored="false" />
     <file path="/counter_controller.rb" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377614934999" ignored="false" />
-    <file path="/counter.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377621963855" ignored="false" />
+    <file path="/counter.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377622563685" ignored="false" />
     <file path="/application.css" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377507499632" ignored="false" />
     <file path="/Procfile" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377509998142" ignored="false" />
     <file path="/index.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377470830083" ignored="false" />
@@ -48,7 +48,7 @@
       <file leaf-file-name="counter.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/counter/counter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="50" selection-start="2412" selection-end="2412" vertical-scroll-proportion="0.54112554">
+            <state line="85" column="37" selection-start="2463" selection-end="2463" vertical-scroll-proportion="0.6363636">
               <folding />
             </state>
           </provider>
@@ -129,7 +129,7 @@
       <file leaf-file-name="cpu_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/cpu_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="8" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+            <state line="5" column="3" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -158,8 +158,8 @@
         <option value="$PROJECT_DIR$/app/controllers/counter_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/counter.js" />
-        <option value="$PROJECT_DIR$/app/controllers/cpu_controller.rb" />
         <option value="$PROJECT_DIR$/cpu.txt" />
+        <option value="$PROJECT_DIR$/app/controllers/cpu_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/counter/counter.html" />
       </list>
     </option>
@@ -908,14 +908,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/cpu_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="8" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+        <state line="5" column="3" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/counter/counter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="50" selection-start="2412" selection-end="2412" vertical-scroll-proportion="0.54112554">
+        <state line="85" column="37" selection-start="2463" selection-end="2463" vertical-scroll-proportion="0.6363636">
           <folding />
         </state>
       </provider>
