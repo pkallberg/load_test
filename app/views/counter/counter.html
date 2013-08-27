@@ -72,6 +72,7 @@
 		var load;
 
 		$(document).ready(function(){
+
 			setTimeout(function(){
 			$.ajax({
 				type: "GET",
@@ -79,8 +80,7 @@
 				dataType: "json",
 				success: (function(data){
 					$('.cpu').text(data.value);
-					var window.load = data.value;
-
+					window.load = data.value;
 				})
 			});
 			}, 1000);
