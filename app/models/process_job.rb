@@ -20,6 +20,7 @@ class ProcessJob #< ActiveRecord::Base
 		end
 
 		array.sort_by { |x| x.zero? ? Float::MAX : x }
+		sleep 5
 	end
 
 	def before(job)
