@@ -2845,7 +2845,7 @@ a:hover {
 /* Additional link styles */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/pkallberg\/code\/cloud66\/appstore\/app\/assets\/stylesheets\/app\/components\/base\.css\.scss}line{font-family:\0000332}}
 [target="_blank"] {
-  padding-right: 12px;
+  padding-right: 0px;
   background: transparent url(/assets/ico/external_link.png) no-repeat center right;
 }
 
@@ -8051,8 +8051,9 @@ html.live-chat body {
   left: 0;
   right: 0;
   background: rgba(0, 0, 0, 0.1);
-  padding: 14px;
-  font-size: 17px;
+  padding: 3px;
+  font-size: 0px;
+  font-family:0000344;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/pkallberg\/code\/cloud66\/appstore\/app\/assets\/stylesheets\/app\/components\/login\.css\.scss}line{font-family:\00003103}}
 .footer-msg a {
