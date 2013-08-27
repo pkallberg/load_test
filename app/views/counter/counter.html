@@ -70,6 +70,7 @@
 		smoothie.streamTo(document.getElementById("mycanvas"), 1000 /*delay*/);
 
 		$(document).ready(function(){
+			setTimeout(function(){
 			$.ajax({
 				type: "GET",
 				url: "/cpu",
@@ -79,6 +80,7 @@
 					$load = data.value;
 				})
 			});
+			}, 1000);
 		});
 
 		// Add a random value to each line every second
