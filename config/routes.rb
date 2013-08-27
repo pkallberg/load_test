@@ -6,7 +6,7 @@ LoadTest::Application.routes.draw do
   root 'load#index'
 
   match "/counter" => 'counter#counter', via: [:get, :post]
-  get '/top' => 'home#top'
+  match "/cpu" => 'cpu#index', via: [:get, :post]
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 

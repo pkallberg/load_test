@@ -69,10 +69,21 @@
 
 		smoothie.streamTo(document.getElementById("mycanvas"), 1000 /*delay*/);
 
+		$(document).ready(function(){
+			$.ajax({
+				type: "GET",
+				url: "/cpu",
+				dataType: "json",
+				success: (function(data){
+					$('.cpu').text(data.value);
+					$load = data.value;
+				})
+			});
+		});
+
 		// Add a random value to each line every second
 		setInterval(function() {
-			var now = new Date().getTime();
-			line1.append(now, <%=@cpu%>);
+			line1.append(new Date().getTime(), $load);
 		}, 1000);
 
 		// Add to SmoothieChart
@@ -84,6 +95,8 @@
 		smoothie.addTimeSeries(line1, { strokeStyle:'rgb(0, 255, 0)', fillStyle:'rgba(0, 255, 0, 0.4)', lineWidth:3 });
 
 	</script>
+
+	<div class="cpu">Load div</div><br>
 </section>
 </body>
 </html>
