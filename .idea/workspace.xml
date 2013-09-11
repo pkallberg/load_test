@@ -6,10 +6,10 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/routes.rb" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377616168157" ignored="false" />
     <file path="/counter_controller.rb" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377639907275" ignored="false" />
-    <file path="/counter.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377645370228" ignored="false" />
+    <file path="/counter.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1378893204395" ignored="false" />
     <file path="/application.css" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377645305026" ignored="false" />
     <file path="/Procfile" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377509998142" ignored="false" />
-    <file path="/index.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377470830083" ignored="false" />
+    <file path="/index.html" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1378892785161" ignored="false" />
     <file path="/cpu.sh" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377522269209" ignored="false" />
     <file path="/chmod.sh" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377514734224" ignored="false" />
     <file path="/application.html.erb" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377516785657" ignored="false" />
@@ -17,7 +17,7 @@
     <file path="/home.js.coffee" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377519787669" ignored="false" />
     <file path="/cpu.txt" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377618707822" ignored="false" />
     <file path="/counter.js" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377618376886" ignored="false" />
-    <file path="/Dummy.txt" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377602015416" ignored="false" />
+    <file path="/Dummy.txt" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1378892693065" ignored="false" />
     <file path="/a.dummy" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377602250566" ignored="false" />
     <file path="$PROJECT_DIR$/../../cloud66/appstore/app/assets/javascripts/app/dashboard_protips.js" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377602227851" ignored="false" />
     <file path="/dashboard_protips.js" changelist="004f7d83-4b21-4b4c-bf75-ef60114eae56" time="1377602104393" ignored="false" />
@@ -49,31 +49,31 @@
       <file leaf-file-name="counter.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/counter/counter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="103" column="17" selection-start="3102" selection-end="3102" vertical-scroll-proportion="0.0">
+            <state line="60" column="59" selection-start="1972" selection-end="1972" vertical-scroll-proportion="-37.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="load_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/load_controller.rb">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/cpu/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="12" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="process_job.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/process_job.rb">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/load/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="28" selection-start="287" selection-end="288" vertical-scroll-proportion="0.0">
+            <state line="16" column="55" selection-start="470" selection-end="470" vertical-scroll-proportion="-10.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cpu.sh" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="cpu.sh" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/tasks/cpu.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -82,19 +82,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cpu.txt" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="cpu.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/tasks/cpu.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="counter_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="26" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -109,19 +100,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chmod.sh" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.cloud66/chmod.sh">
+      <file leaf-file-name="counter_helper.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/helpers/counter_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="50" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy_hooks.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
+      <file leaf-file-name="cpu_helper.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/helpers/cpu_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="counter_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/counter_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="26" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -146,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/assets/javascripts/home.js.coffee" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/.cloud66/deploy_hooks.yml" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
@@ -159,9 +158,10 @@
         <option value="$PROJECT_DIR$/app/controllers/cpu_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/counter_controller.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/app/views/counter/counter.html" />
         <option value="$PROJECT_DIR$/app/models/process_job.rb" />
         <option value="$PROJECT_DIR$/.cloud66/chmod.sh" />
+        <option value="$PROJECT_DIR$/app/views/load/index.html" />
+        <option value="$PROJECT_DIR$/app/views/counter/counter.html" />
       </list>
     </option>
   </component>
@@ -257,7 +257,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -272,6 +280,58 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="counter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -306,8 +366,44 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="concerns" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -348,6 +444,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="load_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -721,43 +843,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/cpu/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="78" selection-start="201" selection-end="201" vertical-scroll-proportion="-2.5" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/load/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/counter.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2847" column="18" selection-start="116796" selection-end="116796" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/counter/counter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="17" selection-start="3102" selection-end="3102" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -772,6 +860,27 @@
     <entry file="file://$PROJECT_DIR$/.cloud66/deploy_hooks.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="78" selection-start="201" selection-end="201" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/load_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="12" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/process_job.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="28" selection-start="287" selection-end="288" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -797,28 +906,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/load_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/process_job.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="28" selection-start="287" selection-end="288" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/cpu.txt">
+    <entry file="file://$PROJECT_DIR$/app/helpers/counter_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/cpu_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/counter/counter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="59" selection-start="1972" selection-end="1972" vertical-scroll-proportion="-37.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/cpu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/load/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="55" selection-start="470" selection-end="470" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/tasks/cpu.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/cpu.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
