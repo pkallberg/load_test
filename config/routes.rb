@@ -6,7 +6,7 @@ LoadTest::Application.routes.draw do
   root 'load#index'
 
   match "/counter" => 'counter#counter', via: [:get, :post]
-  match "/cpu" => 'cpu#index', via: [:get, :post]
+  match "/cpu" => 'cpu#index', via: [:get, :post], :defaults=>{:format=>'json'}
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
