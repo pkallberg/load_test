@@ -1,9 +1,8 @@
 class CpuController < ApplicationController
-	respond_to :json, :html
+	respond_to :json
 	def index
-		cpu = File.read("lib/tasks/cpu.txt")
+		cpu = { :a => 'a' }
 		respond_with do |format|
-			format.html { render :json => { :value => cpu } }
 			format.json { render :json => { :value => cpu } }
 		end
 	end
