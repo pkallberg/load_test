@@ -6,4 +6,3 @@ production:
             nginx_cors:
                 origin: '*'
                 methods: 'GET, OPTION'
-                mime_regex: '\\.(?:ttf|ttc|otf|eot|woff|json|js|font.css)$'
