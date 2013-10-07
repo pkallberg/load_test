@@ -3,6 +3,7 @@ production:
         server:
             unique_name: frontend
         configuration:
-            nginx_cors:
-                origin: '*'
-                methods: 'GET, OPTION'
+            nginx:
+                cors:
+                    origin: '*'
+                    methods: 'GET, OPTION'
