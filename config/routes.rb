@@ -8,9 +8,7 @@ LoadTest::Application.routes.draw do
   match "/counter" => 'counter#counter', via: [:get, :post]
   #match "/cpu" => 'cpu#index', via: [:get, :post]
   
-  scope :format => true, :constraints => { :format => 'json' } do
-    match "/cpu" => 'cpu#index', via: [:get, :post]
-  end
+  match "/cpu" => 'cpu#index', via: [:get, :post]
   
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
