@@ -4,6 +4,4 @@ production:
             unique_name: frontend
         configuration:
             nginx:
-                cors:
-                    origin: '*'
-                    methods: 'GET, OPTION'
+                cors: true
