@@ -3,4 +3,5 @@ production:
         server:
             unique_name: frontend
         configuration:
-            nginx_cors: true
+            nginx:
+                cors: true
